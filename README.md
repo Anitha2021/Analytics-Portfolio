@@ -6,3 +6,10 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Projects**
 
+[*Wine Quality Assessment*]( https://github.com/Anitha2021/Wine-Quality-Assessment/blob/main/wineQuality%20(1)-1.Rmd)
+
+Used multinomial logistic regression and KNN to classify wines into different quality groups, achieving a prediction accuracy of 95%.
+
+[*Water Potability Analysis*](https://github.com/Anitha2021/Water-Potability-Prediction)
+
+
