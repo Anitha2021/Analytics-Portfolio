@@ -17,3 +17,5 @@ Used multinomial logistic regression and KNN to classify wines into different qu
 Built a model that predicts whether drinking water is potable or not for around 3000+ data points.Used ML techniques like random forest and neural network (using TensorFlow package) that gave a prediction accuracy of 69% and 72% respectively.
 
 ![This is an image](https://github.com/Anitha2021/Water-Potability-Prediction/blob/main/unnamed.png)
+
+[*Movie Industry Analysis*]
