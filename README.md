@@ -18,6 +18,6 @@ Built a model that predicts whether drinking water is potable or not for around 
 
 ![This is an image](https://github.com/Anitha2021/Water-Potability-Prediction/blob/main/unnamed.png)
 
-[*Movie Industry Analysis*]
+[*Movie Industry Analysis*](https://github.com/Anitha2021/Movie-Industry-Analysis/blob/main/README.md)
 
 ![This is an image](https://user-images.githubusercontent.com/86379450/161842241-981b8eb0-bd33-46f7-9744-4f4b77e22e81.png)
