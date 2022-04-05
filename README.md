@@ -20,4 +20,12 @@ Built a model that predicts whether drinking water is potable or not for around 
 
 [*Movie Industry Analysis*](https://github.com/Anitha2021/Movie-Industry-Analysis/blob/main/README.md)
 
+Analyzed the evolution of movie industry in the United States for more than a couple of decades. An extensive IMDb data set is used with 81k+ movies,175k+ cast members,22 attributes including geographical, quantitative and categorical data.
+
 ![This is an image](https://user-images.githubusercontent.com/86379450/161842241-981b8eb0-bd33-46f7-9744-4f4b77e22e81.png)
+
+**Some of the prominent insights were**
+
+The amount of movies and the budget have increased exponentially.
+
+There has been a shift in the genre of movies that fetch money in the box office.
