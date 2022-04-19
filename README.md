@@ -31,6 +31,6 @@ The amount of movies and the budget have increased exponentially.
 There has been a shift in the genre of movies that fetch money in the box office.
 
 
-[*Big Data Analysis using PYSPARK](https://github.com/Anitha2021/Bigdata-analysis-using-PYSPARK)
+[*Big Data Analysis using PYSPARK*](https://github.com/Anitha2021/Bigdata-analysis-using-PYSPARK)
 
 Conducted a basic EDA on two large dataset of temperatures and CO2 emissions using PYSPARK. Used the same to melt two datasets and derive insights on correlation of average temperature and CO2 emission in various countries.
